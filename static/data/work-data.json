@@ -1,0 +1,92 @@
+[
+    {
+        "id": "marymount",
+        "title": "zentani3",
+        "details": {
+            "description": "Django based Ecommerce Project.",
+            "summary": "Ecommerce project"
+        },
+        "roles": [
+            "Sole developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on GitHub",
+                "link": "https://github.com/vyaesop/zentani3"
+            }
+        ]
+    },
+    {
+        "id": "lcml",
+        "title": "Giraffe",
+        "details": {
+            "description": "Open-source project on GitHub.",
+            "summary": "Open-source project"
+        },
+        "roles": [
+            "Open-source Maintainer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on GitHub",
+                "link": "https://github.com/vyaesop/Giraffe"
+            }
+        ]
+    },
+    {
+        "id": "v1",
+        "title": "Brana",
+        "details": {
+            "description": "Open-source project on GitHub.",
+            "summary": "Open-source project"
+        },
+        "roles": [
+            "Open-source Maintainer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on GitHub",
+                "link": "https://github.com/vyaesop/Brana"
+            }
+        ]
+    },
+    {
+        "id": "kic",
+        "title": "Redd",
+        "details": {
+            "description": "Open-source project on GitHub.",
+            "summary": "Open-source project"
+        },
+        "roles": [
+            "Open-source Maintainer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on GitHub",
+                "link": "https://github.com/vyaesop/Redd"
+            }
+        ]
+    },
+    {
+        "id": "grillzzy",
+        "title": "zetta",
+        "details": {
+            "description": "Open-source project on GitHub.",
+            "summary": "Open-source project"
+        },
+        "roles": [
+            "Open-source Maintainer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on GitHub",
+                "link": "https://github.com/vyaesop/zetta"
+            }
+        ]
+    }
+]
